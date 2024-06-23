@@ -44,8 +44,8 @@ This is a simple task management application built using HTML, CSS, JavaScript, 
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/task-management-application.git
-   cd task-management-application
+   https://github.com/GauravUpreti22/Simple-Task-management-application.git
+   cd to_do_list_project
    ```
 
 2. **Create a virtual environment and activate it:**
